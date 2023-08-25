@@ -30,11 +30,5 @@ The requirement for this Python project is a webcam through which we will captur
 #### Pygame – pip install pygame (to play alarm sound).
 
 
-## Output Screenshot
-![OpenEyesOutput](https://github.com/radhika3131/Driver_Drowsiness_Detection_Using_DL/assets/102825662/40f23dc7-ccde-4e47-97aa-3a0e4fadc3c6)
-
-
-![CloseEyeOutput](https://github.com/radhika3131/Driver_Drowsiness_Detection_Using_DL/assets/102825662/5882057c-6c5d-4749-a46c-27d90adc40fb)
-
 
 
