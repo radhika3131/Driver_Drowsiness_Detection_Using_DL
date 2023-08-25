@@ -31,5 +31,6 @@ The requirement for this Python project is a webcam through which we will captur
 
 
 ## Output Screensort
- !![OpenEyesOutput](https://github.com/radhika3131/Driver_Drowsiness_Detection_Using_DL/assets/102825662/c20b71f2-e3f7-4f9b-b297-7fc0bfaaa966)
+!![OpenEyesOutput](https://github.com/radhika3131/Driver_Drowsiness_Detection_Using_DL/assets/102825662/40f23dc7-ccde-4e47-97aa-3a0e4fadc3c6)
+
 
